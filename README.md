@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
+ 
   
 
 ### <div align="center">👋 Hi, I'm Basu, a full-time MERN Stack Developer 🚀 building scalable web apps and crafting seamless user experiences!</div>  
